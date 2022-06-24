@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Gerry-Callaghan
 - 👀 I’m interested in Virtual learning environments 
-- 🌱 I’m currently learning Wordperess
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Wordpress
+- 💞️ I’m looking to collaborate on interactive user environments
+- 📫 How to reach me gerry.callaghan@newhorizonathlone.org
 
 <!---
 Gerry-Callaghan/Gerry-Callaghan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
